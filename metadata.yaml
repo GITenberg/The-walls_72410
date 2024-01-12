@@ -1,0 +1,47 @@
+_repo: The-walls_72410
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling, George Luther
+    - Schelling, George L.
+    - Schelling
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+creator:
+  author:
+    agent_name: Laumer, Keith
+    aliases:
+    - Laumer, John Keith
+    - Laumer, Kit
+    birthdate: 1925
+    deathdate: 1993
+    gutenberg_agent_id: '24817'
+    url: http://www.gutenberg.org/2009/agents/24817
+    wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
+description: ''
+gutenberg_issued: '2023-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72410'
+language: en
+pgterms:marc905: 20231124062410laumer
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Spouses -- Fiction'
+- !lcsh 'Television -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The walls
+url: http://www.gutenberg.org/ebooks/72410
